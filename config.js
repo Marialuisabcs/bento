@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: "Airam",
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
