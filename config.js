@@ -66,7 +66,7 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Todoist",
+      name: "Obsidian",
       icon: "notebook-pen",
       link: "https://github.com/Marialuisabcs/obsidian_vault",
     },
@@ -99,33 +99,33 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "twitter",
-      icon: "twitter",
-      link: "https://twitter.com/",
+      name: "ChatGPT",
+      icon: "bot-message-square",
+      link: "https://chatgpt.com/",
     },
     {
       id: "3",
       name: "Syncthing",
       icon: "folder-sync",
-      link: "https://discord.com/app",
+      link: "localhost",
     },
     {
       id: "4",
+      name: "Hashnode",
+      icon: "pen-tool",
+      link: "https://hashnode.com/",
+    },
+    {
+      id: "5",
       name: "Whats",
       icon: "message-circle",
       link: "https://web.whatsapp.com/",
     },
     {
-      id: "5",
+      id: "6",
       name: "Telegram",
       icon: "send",
       link: "https://web.telegram.org/k/",
-    },
-    {
-      id: "6",
-      name: "Hashnode",
-      icon: "pen-tool",
-      link: "https://hashnode.com/",
     },
   ],
 
